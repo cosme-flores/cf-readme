@@ -13,4 +13,4 @@ _I’m currently pursuing my master’s degree in Information Technology with a 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<cosme-flores>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
 
-_"Your sample quote here!"_
+_"The journey of a thousand miles begins with a single step." — Lao Tzu_
